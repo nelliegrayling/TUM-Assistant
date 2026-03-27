@@ -20,3 +20,8 @@ ENV/
 
 # Exports (generated files)
 exports/
+
+# v4 reliability features
+.cache/
+logs/
+backups/
