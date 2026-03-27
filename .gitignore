@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Virtual environments
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (keep templates, exclude large data)
+*.pdf
+*.xlsx
+*.png
+
+# Exports (generated files)
+exports/
